@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../lib/libVecGeom_static.a  CMakeFiles/VecGeom_static.dir/src/TGeoBBox_v.cxx.o CMakeFiles/VecGeom_static.dir/src/TGeoTube_v.cxx.o
+/usr/bin/ranlib ../lib/libVecGeom_static.a
